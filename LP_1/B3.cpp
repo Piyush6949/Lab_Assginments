@@ -62,6 +62,15 @@ public:
                 }
             }
         }
+        cout<<"Process no, Process size ,Block number"<<endl;
+        for(auto i: processes){
+            cout<<i.processNo<<" "<<i.processSize<<" "<<i.blockNo<<endl;
+        }
+        cout<<"Memory Remaining"<<endl;
+        for(auto i: blocks){
+            cout<<i<<" ";
+        }
+        cout<<endl;
     }
 
     void bestFit(vector<Process>& processes, vector<int>& blocks){
@@ -88,6 +97,9 @@ int main()
     int numofProcesses;
     cin >> numofProcesses;
     vector<Process> Processes = create_Process(numofProcesses);
+
+    memory_placement_strategies m;
+    m.firstFit(Processes,Blocks);
 
     return 0;
 }
