@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+/home/te/31461_wtl/Assn5/.metadata/.plugins/org.eclipse.jdt.core
+61124512.index
+2131498928.index
+3859105290.index
+1426712816.index
+362190339.index
+4188825561.index
+3554027982.index
+342214638.index
+1865797976.index
+4212642333.index
+1033548098.index

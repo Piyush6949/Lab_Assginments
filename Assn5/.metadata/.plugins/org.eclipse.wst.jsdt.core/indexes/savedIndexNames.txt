@@ -1,0 +1,10 @@
+INDEX VERSION 1.4+/home/te/31461_wtl/Assn5/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1426712816.index
+3554027982.index
+3113105911.index
+300273397.index
+856216226.index
+2131498928.index
+3859105290.index
+204389446.index
+61124512.index

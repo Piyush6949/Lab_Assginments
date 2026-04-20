@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>DisplayBooks</servlet-name>
+		<servlet-class>com.example.servlet.DisplayBooksServlet</servlet-class>
+	</servlet>
+
+    <servlet-mapping>
+        <servlet-name>DisplayBooks</servlet-name>
+        <url-pattern>/books</url-pattern>
+    </servlet-mapping>
+
+</web-app>

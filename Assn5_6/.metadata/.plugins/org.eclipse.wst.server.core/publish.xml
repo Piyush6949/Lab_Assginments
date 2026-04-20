@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publish-info>
+  <server id="Tomcat v9.0 Server at localhost (3)" path="publish2.dat"/>
+  <server id="Tomcat v9.0 Server at localhost (4)" path="publish3.dat"/>
+  <server id="Tomcat v9.0 Server at localhost (5)" path="publish4.dat"/>
+</publish-info>
